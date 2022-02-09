@@ -1,2 +1,3 @@
 # DTC_Project2
-Group assgnment
+Group assignment 
+Hello, this is Trudy ☺️ 
