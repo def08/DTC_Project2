@@ -41,6 +41,25 @@ h1{
     font-family: 'Courier New', Courier, monospace;
 }
 
+p1{
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-size:32px;
+    align-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p2{  
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-size:32px;
+    align-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
 button{
     width: 200px;
     height: 100px;
